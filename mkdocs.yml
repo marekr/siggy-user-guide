@@ -1,4 +1,5 @@
 site_name: siggy User Guide
+repo_url: https://github.com/borkedLabs/siggy-user-guide
 theme: readthedocs
 pages:
 - Home: 'index.md'
