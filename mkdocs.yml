@@ -1,0 +1,14 @@
+site_name: siggy User Guide
+theme: readthedocs
+pages:
+- Home: 'index.md'
+- Usage:
+    - 'Sigs': 'usage/sigs.md'
+    - 'Chain Maps': 'usage/chainmaps.md'
+    - 'Other Features': 'usage/other-features.md'
+- 'Getting siggy': 'getting-siggy.md'
+- Management:
+    - 'Basic Setup': 'management/basic-setup.md'
+    - 'Billing & Payment': 'management/billing-payment.md'
+- Support:
+    - 'Connection Reset Error': 'support/connection-reset.md'
