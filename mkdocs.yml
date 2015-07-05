@@ -12,4 +12,5 @@ pages:
     - 'Basic Setup': 'management/basic-setup.md'
     - 'Billing & Payment': 'management/billing-payment.md'
 - Support:
+    - 'Contact': 'support/contact.md'
     - 'Connection Reset Error': 'support/connection-reset.md'

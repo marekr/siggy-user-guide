@@ -22,5 +22,7 @@ If you would like to be charged less, you must add characters individually as gr
 Because payments are on an automated system, they are only processed every hour. Due to API caches it will normally take up to 2 hours but can be longer if the API system is down. If payment does not show up after 24 hours please get in touch for help [[support|support]]
   - Do I have to use the reason code?
 Yes, the reason code is absolutely required. Invalid reason codes will not get credits applied.
+  - Help! I forgot the reason code.
+Send an EVE mail per  [[support|contact]] instructions with the transaction time from your wallet and the reason code you forgot.
   - Can I get a refund?
 Sure, just get in touch via details provided on the [[support]] page.
