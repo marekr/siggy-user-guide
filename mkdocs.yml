@@ -5,6 +5,7 @@ pages:
 - Home: 'index.md'
 - Usage:
     - 'Sigs': 'usage/sigs.md'
+    - 'Intel': 'usage/intel.md'
     - 'Chain Maps': 'usage/chainmaps.md'
     - 'Other Features': 'usage/other-features.md'
 - 'Getting siggy': 'getting-siggy.md'
