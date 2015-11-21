@@ -1,4 +1,6 @@
-## Introduction
+## Chain Maps
+
+### Introduction
 
 The chain map is the main navigation aid. It allows pilots to create a chain map that will visibly show all systems, their "status" based on scouting and where they lead. Additionally custom names allow use of any chain naming convention desired.
 
