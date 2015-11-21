@@ -11,24 +11,35 @@ If your siggy has more than one chain map, select a chain map using the dropdown
 ### Wormhole Connections
 
   * **Pink Outline:** Wormhole is end of life.
+
   * **White Outline:** Wormhole is frigate sized.
+
   * **Light Blue Outline:** Wormhole is frigate sized and end of life.
+
   * **Grey Fill:** Wormhole has stage 1 mass (not reduced / not critical).
+
   * **Yellow Fill:** Wormhole has stage 2 mass (reduced).
+
   * **Red Fill:** Wormhole has stage 3 mass (critical).
 
 ### Misc. Connections:
 
   * **White Dotted Line:** Connected by stargate(s).
+
   * **Blue Dotted Line:** Connected by jump bridge.
+
   * **Yellow Dotted Line:** Connected by cyno jump.
 
 ### Systems
 
   * **Grey Border:** Default / unknown system status.
+
   * **Blue Border:** Friendly system status.
+
   * **Yellow Border:** Occupied system status.
+
   * **Green Border:** Empty / clear / safe system status.
+
   * **Red Border:** Active / hostile system status.
 
 ## Mapping Systems
@@ -36,6 +47,7 @@ If your siggy has more than one chain map, select a chain map using the dropdown
 Connections can be mapped in two ways:
 
   * **Automatic:** Systems will automatically map when you jump between systems. The only limitation is it cannot handle k-space to k-space jumps due to stargates.
+
   * **Manual:** Systems can be connected manually. There are no restrictions on the systems.
 
 To manually add a new connection:
@@ -112,9 +124,13 @@ Systems have a right click menu which bring up three extra options.
 ![Add Sigs Screenshot](img/chainmap-system-right-click.png)
 
   * **Edit:** Edit the system name and activity level.
+
   * **Show Info:** Opens the in-game information window or dotlan out of game.
+
   * **Set Destination:** Sets your destination to the selected system.
+
   * **Add Waypoint:** Adds waypoint to the selected system.
+
   * **Set Rally:** Set rally (indicate a system with purple highlight) to a selected system.
 
 ### Editing Systems
@@ -122,6 +138,7 @@ Systems have a right click menu which bring up three extra options.
 Systems come with options to set:
 
   * **Display Name:** This is the name that will be visible on the chain map and the info section below the map. This can be anything and in any language(unicode supported).
+
   * **Activity Level:** The current activity level that was seen by scanners/scouts.
 
 ![Add Sigs Screenshot](img/chainmap-edit-system.png)

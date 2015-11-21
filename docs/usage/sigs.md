@@ -16,6 +16,24 @@ Sigs table contains columns for:
 
   * **Age:** An automatic time counter starting from when the sig was first added. Additional estimated time left on wormhole signatures.
 
+## Scan Summary
+
+The "Scan" tab contains a short summary of the system information.
+
+![Scan Summary Screenshot](img/scan-summary.png)
+
+The summary provides the following information:
+
+  * **Region / Constellation:** The region and constellation for the selected system.
+
+  * **Hub Jumps:** The number of jumps (if k-space system) to Jita, Amarr, Dodixie, Hek and Rens.
+
+  * **POS Summary (Intel):** A summary of the intel page, including the number of online and offline towers and the residents.
+
+  * **System Effect:** The wormhole system effect (if w-space system).
+
+  * **Statics:** The static connection of the wormhole (if w-space system).
+
 ## Adding Sigs
 
 There are three methods to add signatures to the sig table and can be done in the section above the sig table. You may add as many signatures as you like, there is no limit.
