@@ -16,7 +16,6 @@ Sigs table contains columns for:
 
   * **Age:** An automatic time counter starting from when the sig was first added. Additional estimated time left on wormhole signatures.
 
-
 ## Adding Sigs
 
 There are three methods to add signatures to the sig table and can be done in the section above the sig table. You may add as many signatures as you like, there is no limit.
@@ -25,11 +24,11 @@ There are three methods to add signatures to the sig table and can be done in th
 
 ![Add Sigs Screenshot](img/add-sigs.png)
 
-Signatures can be individually added simply by filling in the blank fields, selecting options from the dropdown and pressing the "Add" button. The only piece of information required is **Sig ID**, all other fields are optional.
+Signatures can be individually added simply by filling in the blank fields, selecting options from the dropdown and pressing the "Add" button. The only piece of information required is "Sig ID", all other fields are optional.
 
 ### Signature Adder
 
-Signatures can also be added through the **Signature Adder** entry field in conjunction with the in-game probe window.
+Signatures can also be added through the "Signature Adder" entry field in conjunction with the in-game probe window.
 
 To copy sigs from the probe window:
 
@@ -47,11 +46,9 @@ To add signatures using signature adder:
 
 2. Hit enter.
 
-
-
 ### Mass Sig Reader
 
-Signatures can be mass added and updated through the use of the **Mass Sig Reader**.
+Signatures can be mass added and updated through the use of the "Mass Sig Reader".
 
 ![Mass Add Sigs Screenshot](img/mass-sigs.png)
 
@@ -68,7 +65,6 @@ To use this feature:
 5. Press Submit.
 
 Signatures should be added or updated within 10 seconds.
-
 
 ## Editing Sigs
 
