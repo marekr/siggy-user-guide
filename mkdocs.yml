@@ -12,6 +12,8 @@ pages:
 - Management:
     - 'Basic Setup': 'management/basic-setup.md'
     - 'Billing & Payment': 'management/billing-payment.md'
+- Api:
+    - 'Authentication': 'api/authentication.md'
 - Support:
     - 'Contact': 'support/contact.md'
     - 'Connection Reset Error': 'support/connection-reset.md'
