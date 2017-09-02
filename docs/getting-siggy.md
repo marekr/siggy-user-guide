@@ -2,7 +2,7 @@
 
   1. If you do not have a siggy account, register at [https://siggy.borkedlabs.com/account/register](https://siggy.borkedlabs.com/account/register) out of game. You cannot use the EVE Online SSO login to manage a group.
 
-  2. Login and proceed to [https://siggy.borkedlabs.com/pages/create-group](https://siggy.borkedlabs.com/pages/create-group).
+  2. Login and proceed to [https://siggy.borkedlabs.com/group/create](https://siggy.borkedlabs.com/group/create).
 
     * **Group Name / Group Ticker:** Enter your customized name and ticker.
 
