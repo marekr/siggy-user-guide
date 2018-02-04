@@ -23,7 +23,7 @@ $stringToSign = verb . "\n".
 ```
 
 * verb - HTTP verb, uppercase format, GET,POST
-* path - path relative to siggy's domain. i.e. /api/v1/systems/30000142
+* path - path relative to siggy's domain. i.e. api/v1/systems/30000142 (WITHOUT THE LEADING SLASH)
 * timestamp - ISO8601 timestamp (same format as used in Date or x-siggy-date header)
 * content_type - empty if GET request, otherwise the mime-type
 * content_hash - empty if GET request, otherwise `base64_encode(sha256(content))`
